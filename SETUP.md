@@ -10,7 +10,7 @@
 ### 1. Backend (.env file)
 Create/update `backend/.env`:
 ```env
-MONGODB_URI=mongodb+srv://Shriram2005:Shriram2005@cluster0.sfh7knq.mongodb.net/ecommerce?retryWrites=true&w=majority
+MONGODB_URI=mongodb+srv://<username>:<password>@cluster0.sfh7knq.mongodb.net/ecommerce?retryWrites=true&w=majority
 JWT_SECRET=mySecretKeyForJWTTokenGenerationMustBeAtLeast256BitsLong
 CORS_ORIGINS=http://localhost:5173,http://localhost:3000
 PORT=8080
