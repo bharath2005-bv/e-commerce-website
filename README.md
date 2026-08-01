@@ -59,19 +59,6 @@ JWT_SECRET=your-secret-key
 VITE_API_URL=http://localhost:8080/api
 ```
 
-## 📄 License
-
-
-## 👥 Team
-
-| Name                | Role                                                      |
-|---------------------|------------------------------------------------------------
-| Shriram Mange       | [GitHub](https://github.com/Shriram2005) · [Portfolio](https://shrirammange.tech) · [Email](mailto:mange.shriram@gmail.com) |
-| Chanchal Fegade     | [GitHub](https://github.com/chanchalfegade29) · [Email](mailto:fegadechanchal@gmail.com) |
-| Sahil Gite          | [GitHub](https://github.com/sahilgite1023) · [LinkedIn](https://www.linkedin.com/in/sahilgite2003) |
-| Anushka Shinde      | [GitHub](https://github.com/anushkashinde7188) · [Portfolio](https://anushkashinde.netlify.app/) · [Email](mailto:anushkashinde1504@gmail.com) |
-
----
 
 MIT License
 
